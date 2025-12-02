@@ -12,10 +12,12 @@
       "subdirs": true
     }
   ],
-  "package-specs": {
-    "module": "es6",
-    "in-source": true
-  },
+  "package-specs": [
+    {
+      "module": "esmodule",
+      "in-source": true
+    }
+  ],
   "suffix": ".mjs",
   "bs-dev-dependencies": ["rescript-test"],
   "warnings": {

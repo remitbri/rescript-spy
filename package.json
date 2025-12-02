@@ -13,8 +13,11 @@
   "author": "bloodyowl <bloodyowl@icloud.com>",
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "^8.3.2",
-    "rescript": "^9.1.4",
-    "rescript-test": "^2.0.7"
+    "rescript": "12.0.0-alpha.4",
+    "rescript-test": "remitbri/rescript-test.git#alpha4"
+  },
+  "volta": {
+    "node": "22.12.0",
+    "yarn": "1.22.22"
   }
 }
