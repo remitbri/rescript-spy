@@ -255,17 +255,17 @@ require-from-string@^2.0.2:
   resolved "https://registry.yarnpkg.com/require-from-string/-/require-from-string-2.0.2.tgz#89a7fdd938261267318eafe14f9c32e598c36909"
   integrity sha512-Xf0nWe6RseziFMu+Ap9biiUbmplq6S9/p+7w7YXP/JBHhrUDDUhwa+vANyubuqfZWTveU//DYVGsDG7RKL/vEw==
 
-rescript-test@remitbri/rescript-test.git#7db22a5:
+rescript-test@remitbri/rescript-test.git#alpha5:
   version "7.0.1"
-  resolved "https://codeload.github.com/remitbri/rescript-test/tar.gz/7db22a5f0f0cfcbd131b50d841045b1ff77905f1"
+  resolved "https://codeload.github.com/remitbri/rescript-test/tar.gz/154f26896ba35bf6d97f7c91641c4cecd15744d5"
   dependencies:
     glob "^13.0.0"
     jsdom "^27.2.0"
 
-rescript@12.0.0-alpha.4:
-  version "12.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/rescript/-/rescript-12.0.0-alpha.4.tgz#503651b7d2938e00de7f5af96514574aa3ef1ea1"
-  integrity sha512-w9uIv8C8+kBWbcb1GVn1rOdLEj2YX1TIRvUkR6DSvVO8oSdJ0GAUABN7y7WU/+zCkjNwsVrBlO0hG7NTJqXHUA==
+rescript@12.0.0-alpha.5:
+  version "12.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/rescript/-/rescript-12.0.0-alpha.5.tgz#c5205deb95e44d844823b8b528e442de9b25da94"
+  integrity sha512-s2GGg9fkoiDBiP0uuJ1RRG5NBq+SkGqxMEmt32q9tTJoueL7bfU/9Jj3UgSwFFNdehuns1taAOvP2DV4IE+R9A==
 
 "safer-buffer@>= 2.1.2 < 3.0.0":
   version "2.1.2"
