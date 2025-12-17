@@ -2,8 +2,8 @@
   "name": "rescript-spy",
   "version": "1.0.0",
   "scripts": {
-    "build": "rescript",
-    "start": "rescript build -w",
+    "build": "rescript build",
+    "start": "rescript watch",
     "clean": "rescript clean",
     "test": "retest test/*.mjs"
   },
@@ -13,8 +13,7 @@
   "author": "bloodyowl <bloodyowl@icloud.com>",
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "^8.3.2",
-    "rescript": "^9.1.4",
-    "rescript-test": "^2.0.7"
+    "rescript": "^12.0.1",
+    "rescript-test": "^8.0.0"
   }
 }

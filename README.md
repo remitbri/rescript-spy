@@ -8,7 +8,7 @@
 $ yarn add rescript-spy
 ```
 
-Then, add it to you're `bsconfig.json`'s dev dependencies:
+Then, add it to you're `rescript.json`'s dev dependencies:
 
 ```diff
  "bs-dev-dependencies": [

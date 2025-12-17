@@ -1,6 +1,5 @@
 {
   "name": "rescript-spy",
-  "version": "0.1.0",
   "sources": [
     {
       "dir": "src",
@@ -17,7 +16,7 @@
     "in-source": true
   },
   "suffix": ".mjs",
-  "bs-dev-dependencies": ["rescript-test"],
+  "dev-dependencies": ["rescript-test"],
   "warnings": {
     "error": "+101"
   }
