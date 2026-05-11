@@ -1,3 +1,7 @@
+## 2.0.1
+
+- Prepare for ReScript 13 (290eceb)
+
 ## 2.0.0
 
 Changes:
